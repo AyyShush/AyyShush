@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game dev and technical art.
 - 🌱 I’m currently learning various game engines and gameplay programming
 - 💞️ I’m looking to collaborate on projects which require a programmer.
-- 📫 You can reach me by mailing me on aayushshukla11@gmail.com or messaging me on discord using my tag Frostymart
+- 📫 You can reach me by messaging me on discord using my tag Frostymart
 
 <!---
 AyyShush/AyyShush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
